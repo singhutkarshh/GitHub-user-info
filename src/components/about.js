@@ -10,7 +10,9 @@ const About = ({ flag }) => {
         Developed By: Utkarsh Singh{" "}
       </h4>
       <p style={{ textAlign: "center" }}>
-        <a href="https://github.com/singhutkarshh">GitHub Source Code </a>
+        <a href="https://github.com/singhutkarshh/Github-user-info">
+          GitHub Source Code{" "}
+        </a>
       </p>
       {flag && (
         <a href="https://github.com/john-smilga">
