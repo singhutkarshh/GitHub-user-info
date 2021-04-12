@@ -7,12 +7,12 @@ This Web Application has been devloped using React Js.
 
 ## Libraries Used-
 
-Icons - react-icons
-style Wrapping - styled-components
-Charts - react-fusionchats
-fetch Requests - axios
-Routing - react-router-dom
-Authorization - @auth0/auth0-react (Auth0.com)
+- [Icons - react-icons]
+- [style Wrapping - styled-components]
+- [Charts - react-fusionchats]
+- [fetch Requests - axios]
+- [Routing - react-router-dom]
+- [Authorization - @auth0/auth0-react (Auth0.com)]
 
 ## Gihthub API
 
