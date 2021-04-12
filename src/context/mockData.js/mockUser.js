@@ -1,0 +1,38 @@
+export default {
+  login: "singhutkarshh",
+  id: 78869200,
+  node_id: "MDQ6VXNlcjc4ODY5MjAw",
+  avatar_url: "https://avatars.githubusercontent.com/u/78869200?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/singhutkarshh",
+  html_url: "https://github.com/singhutkarshh",
+  followers_url: "https://api.github.com/users/singhutkarshh/followers",
+  following_url:
+    "https://api.github.com/users/singhutkarshh/following{/other_user}",
+  gists_url: "https://api.github.com/users/singhutkarshh/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/singhutkarshh/starred{/owner}{/repo}",
+  subscriptions_url: "https://api.github.com/users/singhutkarshh/subscriptions",
+  organizations_url: "https://api.github.com/users/singhutkarshh/orgs",
+  repos_url: "https://api.github.com/users/singhutkarshh/repos",
+  events_url: "https://api.github.com/users/singhutkarshh/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/singhutkarshh/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Utkarsh Singh",
+  company: null,
+  blog: "",
+  location: null,
+  email: null,
+  hireable: null,
+  bio:
+    "Full time student in IIIT Jabalpur Madhya Pradesh , India .\r\nInterested in Development and CP .",
+  twitter_username: null,
+  public_repos: 7,
+  public_gists: 0,
+  followers: 0,
+  following: 0,
+  created_at: "2021-02-10T16:41:12Z",
+  updated_at: "2021-04-10T16:55:41Z",
+};
